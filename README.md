@@ -10,7 +10,7 @@ To use the script, follow these setup instructions:
 
 2. Install FFmpeg: Download FFmpeg from the official website: [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html). Extract the downloaded archive to a folder on your computer, and add the folder to your system's PATH environment variable.
 
-3. Download the script files: Download the script files from the GitHub repository: [https://github.com/yourusername/yourrepository](https://github.com/yourusername/yourrepository). Extract the files to a folder on your computer.
+3. Download the script files: Download the script files from the GitHub repository: [https://github.com/qjoel6398/captioning](https://github.com/yourusername/yourrepository). Extract the files to a folder on your computer.
 
 4. Install the Python dependencies: Open a command prompt or PowerShell window in the folder where the script files are located, and run the following command:
 
